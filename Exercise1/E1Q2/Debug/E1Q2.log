@@ -1,0 +1,6 @@
+﻿  E1Q2.cpp
+  Employee.cpp
+D:\!G.DRIVE.AVIEL\!אביאל\1 הנדסת תוכנה\שנה א סמסטר ב\150018 C++סדנא ב\Projects - c++סדנא ב\Exercise1\E1Q2\Employee.cpp(6,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\!G.DRIVE.AVIEL\!אביאל\1 הנדסת תוכנה\שנה א סמסטר ב\150018 C++סדנא ב\Projects - c++סדנא ב\Exercise1\E1Q2\Employee.cpp(18,63): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  E1Q2.vcxproj -> D:\!G.DRIVE.AVIEL\!אביאל\1 הנדסת תוכנה\שנה א סמסטר ב\150018 C++סדנא ב\Projects - c++סדנא ב\Exercise1\Debug\E1Q2.exe
