@@ -1,7 +1,0 @@
-﻿  E2Q1.cpp
-  Point.cpp
-D:\!G.DRIVE.AVIEL\!אביאל\1 הנדסת תוכנה\שנה א סמסטר ב\150018 C++סדנא ב\Projects - c++סדנא ב\Exercise2\E2Q1\Point.cpp(4,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\!G.DRIVE.AVIEL\!אביאל\1 הנדסת תוכנה\שנה א סמסטר ב\150018 C++סדנא ב\Projects - c++סדנא ב\Exercise2\E2Q1\Point.cpp(6,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Polygon.cpp
-  Generating Code...
-  E2Q1.vcxproj -> D:\!G.DRIVE.AVIEL\!אביאל\1 הנדסת תוכנה\שנה א סמסטר ב\150018 C++סדנא ב\Projects - c++סדנא ב\Exercise2\Debug\E2Q1.exe
